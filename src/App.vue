@@ -9,7 +9,7 @@ import Calculator from './components/Calculator.vue'
     <Calculator/>
   </div>
   
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
+
 </template>
 
 <style scoped>
